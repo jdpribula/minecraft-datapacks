@@ -1,12 +1,17 @@
 {
-    "type": "crafting_shapeless",
-    "ingredients": [
-        {
+    "type": "crafting_shaped",
+    "pattern": [
+        "   ",
+        " //",
+        " //"
+    ],
+    "key": {
+        "/": {
             "item": "minecraft:stick"
         }
-    ],
+    },
     "result": {
-        "item": "minecraft:oak_planks",
-        "count": 1
+        "item": "minecraft:oak_plank",
+        "count": 2
     }
 }
