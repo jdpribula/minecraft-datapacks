@@ -22,3 +22,5 @@ Tested in: 1.13-pre6
   * 1xEgg + 8xBone               -> 1xSpawn Skeleton
   * 1xEgg + 8xRotten Flesh       -> 1xSpawn Zombie
   * 1xEnd Crystal + 8xIron Bars  -> 1xSpawner
+* uncrafting
+  * 4xStick                      -> 2xOak Plank
