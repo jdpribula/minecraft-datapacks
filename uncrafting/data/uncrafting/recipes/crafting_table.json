@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "group": "uncrafting",
+    "ingredients": [
+        {
+            "item": "minecraft:crafting_table"
+        }
+    ],
+    "result": {
+        "item": "minecraft:oak_planks",
+        "count": 4
+    }
+}
