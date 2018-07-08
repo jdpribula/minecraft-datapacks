@@ -1,7 +1,7 @@
 # minecraft* datapacks
 Playing around with Datapacks for Minecraft
 
-Tested in: 17w49a
+Tested in: 1.13-pre6
 
 * anvil_repair
   * Chipped Anvil + 1xIron Block -> 1xAnvil
