@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:mob_spawner",
+        "item": "minecraft:spawner",
         "count": 1
     }
 }
