@@ -13,8 +13,6 @@ Tested in: 1.13-pre6
   * 1xMushroom Block             -> 9xMushrooms
 * dispenser_from_dropper
   * 1x'Bow Recipe' + 1xDropper   -> 1xDispenser
-* icepacker
-  * 9xIce                        -> 1xPacked Ice
 * nether_wart
   * 1xNether Wart Block          -> 9xNether Wart
 * spawn_eggs
@@ -24,3 +22,5 @@ Tested in: 1.13-pre6
   * 1xEnd Crystal + 8xIron Bars  -> 1xSpawner
 * uncrafting
   * 4xStick                      -> 2xOak Plank
+* gravestone
+  * have a vanilla inventory recovery mechanic WIP
