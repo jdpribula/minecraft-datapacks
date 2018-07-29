@@ -1,16 +1,10 @@
 {
-    "type": "crafting_shaped",
-    "group": "custom_crafting",
-    "pattern": [
-        "///"
-    ],
-    "key": {
-        "/": {
-            "item": "minecraft:rotten_flesh"
-        }
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:rotten_flesh"
     },
-    "result": {
-        "item": "minecraft:beef",
-        "count": 1
-    }
+    "result": "minecraft:cooked_beef",
+    "experience": 0.1,
+    "cookingtime": 200,
+    "group": "Better Vanilla"
 }

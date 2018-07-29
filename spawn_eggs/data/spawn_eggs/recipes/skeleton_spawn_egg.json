@@ -16,5 +16,6 @@
     "result": {
         "item": "minecraft:skeleton_spawn_egg",
         "count": 1
-    }
+    },
+    "group": "Better Vanilla"
 }

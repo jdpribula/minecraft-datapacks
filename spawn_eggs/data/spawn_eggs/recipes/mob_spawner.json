@@ -16,5 +16,6 @@
     "result": {
         "item": "minecraft:spawner",
         "count": 1
-    }
+    },
+    "group": "Better Vanilla"
 }

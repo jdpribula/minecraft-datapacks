@@ -2,19 +2,22 @@
     "type": "crafting_shaped",
     "pattern": [
         "###",
-        "#E#",
-        "###"
+        "#S#",
+        "#B#"
     ],
     "key": {
         "#": {
-            "item": "minecraft:gunpowder"
-        },
-		"E": {
             "item": "minecraft:egg"
+        },
+        "S": {
+            "item": "minecraft:saddle"
+        },
+        "B": {
+            "item": "minecraft:bone"
         }
     },
     "result": {
-        "item": "minecraft:creeper_spawn_egg",
+        "item": "minecraft:skeleton_horse_spawn_egg",
         "count": 1
     },
     "group": "Better Vanilla"
