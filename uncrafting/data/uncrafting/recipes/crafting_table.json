@@ -1,6 +1,6 @@
 {
     "type": "crafting_shapeless",
-    "group": "uncrafting",
+    "group": "Better Vanilla",
     "ingredients": [
         {
             "item": "minecraft:crafting_table"
